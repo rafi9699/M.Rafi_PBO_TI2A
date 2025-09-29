@@ -1,3 +1,4 @@
+//Hierarchical Inheritance
 class Animal {
     private String nama;
 
